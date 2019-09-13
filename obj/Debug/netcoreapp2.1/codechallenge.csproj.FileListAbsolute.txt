@@ -1,0 +1,15 @@
+C:\Users\Leystryku\Desktop\codechallenge\obj\Debug\netcoreapp2.1\codechallenge.csprojAssemblyReference.cache
+C:\Users\Leystryku\Desktop\codechallenge\obj\Debug\netcoreapp2.1\codechallenge.csproj.CoreCompileInputs.cache
+C:\Users\Leystryku\Desktop\codechallenge\obj\Debug\netcoreapp2.1\codechallenge.AssemblyInfoInputs.cache
+C:\Users\Leystryku\Desktop\codechallenge\obj\Debug\netcoreapp2.1\codechallenge.AssemblyInfo.cs
+C:\Users\Leystryku\Desktop\codechallenge\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Leystryku\Desktop\codechallenge\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Leystryku\Desktop\codechallenge\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\Leystryku\Desktop\codechallenge\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Leystryku\Desktop\codechallenge\bin\Debug\netcoreapp2.1\codechallenge.deps.json
+C:\Users\Leystryku\Desktop\codechallenge\bin\Debug\netcoreapp2.1\codechallenge.runtimeconfig.json
+C:\Users\Leystryku\Desktop\codechallenge\bin\Debug\netcoreapp2.1\codechallenge.runtimeconfig.dev.json
+C:\Users\Leystryku\Desktop\codechallenge\bin\Debug\netcoreapp2.1\codechallenge.dll
+C:\Users\Leystryku\Desktop\codechallenge\bin\Debug\netcoreapp2.1\codechallenge.pdb
+C:\Users\Leystryku\Desktop\codechallenge\obj\Debug\netcoreapp2.1\codechallenge.dll
+C:\Users\Leystryku\Desktop\codechallenge\obj\Debug\netcoreapp2.1\codechallenge.pdb
